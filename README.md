@@ -1,5 +1,5 @@
 # SEMaTS
-This repository contains MATLAB codes for the paper "Specification and Estimation of Matrix Time Series Models with Multiple Terms" by Kurtulus Kidik and Dietmar Bauer. Here you will find codes for proposed estimation metods, replication code for the simulations and most of the tables and figures in the main paper. 
+This repository contains MATLAB codes for the paper "Specification and Estimation of Matrix Time Series Models with Multiple Terms" by Kurtulus Kidik and Dietmar Bauer. Here you will find the codes for proposed estimation methods, the replication codes for the simulations, and most of the tables and figures from the main paper. 
 
 Matrix time series $(MaTS)$ models allow to provide models for time series in the situation where for a number of regions the same set of variables for each region is observed. 
 This leads to the observations at every time point being represented as a matrix. In the literature, matrix autoregressive models have been proposed that use one term per time lag. This imposes strong restrictions of generality that can be alleviated by adding terms. More terms on the other hand require identification restrictions. In this paper we propose such restrictions for the stationary and the integrated case. 
