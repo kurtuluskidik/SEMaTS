@@ -74,7 +74,7 @@ function CV_Joh = cVal_Joh(numDims,T,rep);
 %
 % written by:
 % Kurtulus Kidik and Dietmar Bauer, 
-% Dept. of Economics
+% Econometrics
 % Universität Bielefeld
 % Universitätsstraße 25
 % D-33615 Bielefeld
@@ -151,4 +151,5 @@ CV_Joh.info.Dimensions = numDims;
 CV_Joh.info.NofObservation = T;
 CV_Joh.info.NofRep = rep;
 CV_Joh.info.JohansenCase = jcase;
+
 end
